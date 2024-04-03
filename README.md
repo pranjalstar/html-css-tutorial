@@ -3,7 +3,7 @@ HTML+CSS Tutorial
 
 ### Who
 
-I'm Pranjal. I'm a webdeveloper and I've been teaching myself HTML, CSS, and other web development and scripting for over 2 years.
+I'm Pranjal. I'm a web developer and I've been teaching myself HTML, CSS, and other web development and scripting for over 2 years.
 And I want to teach you now.
 Because you're good looking.
 And because it's useful.
